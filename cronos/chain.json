@@ -89,6 +89,34 @@
       {
         "address": "https://evm-cronos.crypto.org/",
         "provider": "crypto.org"
+      },
+      {
+        "address": "https://rpc.nebkas.ro/",
+        "provider": "nebkas"
+      },
+      {
+        "address": "https://mmf-rpc.xstaking.sg/",
+        "provider": "xstaking"
+      },
+      {
+        "address": "https://cronosrpc-1.xstaking.sg/",
+        "provider": "xstaking"
+      },
+      {
+        "address": "https://cronosrpc-2.xstaking.sg/",
+        "provider": "xstaking"
+      },
+      {
+        "address": "https://rpc.vvs.finance/",
+        "provider": "vvs finance"
+      },
+      {
+        "address": "https://rpc.crodex.app/",
+        "provider": "crodex"
+      },
+      {
+        "address": "https://cronos-rpc.elk.finance/",
+        "provider": "elk finance"
       }
     ]
   },
