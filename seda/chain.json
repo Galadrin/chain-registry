@@ -114,8 +114,11 @@
       {
         "address": "https://seda-rpc.kleomedes.network/",
         "provider": "Kleomedes"
+      },
+      {
+        "address": "https://rpc.cros-nest.com/seda",
+        "provider": "Crosnest"
       }
-
     ],
     "rest": [
       {
@@ -141,6 +144,10 @@
       {
         "address": "https://seda-api.kleomedes.network/",
         "provider": "Kleomedes"
+      },
+      {
+        "address": "https://rest.cros-nest.com/seda",
+        "provider": "Crosnest"
       }
     ],
     "grpc": [
